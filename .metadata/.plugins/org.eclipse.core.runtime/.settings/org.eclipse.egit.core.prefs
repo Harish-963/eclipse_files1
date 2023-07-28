@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=E\:\\Updated hybrid framework\\Selenium-Hybrid-Framework\\.git;E\:\\Updated hybrid framework\\HybridAutomationFramework\\.git;
-GitRepositoriesView.GitDirectories.relative=E\:\\Updated hybrid framework\\Selenium-Hybrid-Framework\\.git;E\:\\Updated hybrid framework\\HybridAutomationFramework\\.git;
+GitRepositoriesView.GitDirectories=E\:\\Updated hybrid framework\\Selenium-Hybrid-Framework\\.git;G\:\\SeleniumCucumberBDD\\.git;G\:\\WebAutomation_Extent\\.git;E\:\\Updated hybrid framework\\HybridAutomationFramework\\.git;G\:\\SeleniumCucumber\\.git;G\:\\selenium-parallel-run\\.git;G\:\\SeleniumWithCucucumber\\.git;
+GitRepositoriesView.GitDirectories.relative=E\:\\Updated hybrid framework\\Selenium-Hybrid-Framework\\.git;G\:\\SeleniumCucumberBDD\\.git;G\:\\WebAutomation_Extent\\.git;E\:\\Updated hybrid framework\\HybridAutomationFramework\\.git;G\:\\SeleniumCucumber\\.git;G\:\\selenium-parallel-run\\.git;G\:\\SeleniumWithCucucumber\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

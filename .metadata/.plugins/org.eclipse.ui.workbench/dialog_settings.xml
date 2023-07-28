@@ -7,9 +7,9 @@
 		</list>
 	</section>
 	<section name="EditorSelectionDialog">
-		<item key="EditorSelectionDialog.STORE_ID_FILE_EXTENSION" value=".xlsx"/>
+		<item key="EditorSelectionDialog.STORE_ID_FILE_EXTENSION" value=".pdf"/>
 		<item key="EditorSelectionDialog.STORE_ID_INTERNAL_EXTERNAL" value="true"/>
-		<item key="EditorSelectionDialog.STORE_ID_DESCR" value="Microsoft Excel Worksheet"/>
+		<item key="EditorSelectionDialog.STORE_ID_DESCR" value="Chrome HTML Document"/>
 	</section>
 	<section name="NewWizardAction">
 	</section>

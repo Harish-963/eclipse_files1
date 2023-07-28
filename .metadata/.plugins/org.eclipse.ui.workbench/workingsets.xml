@@ -5,5 +5,8 @@
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1656313914808_3" label="UrbanLadderC" name="UrbanLadderC">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/UrbanLadderC" type="4"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1689613353265_4" label="WebAutomation_Extent" name="WebAutomation_Extent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/WebAutomation_Extent" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1647923988977_2" label="Window Working Set" name="Aggregate for window 1647923988976"/>
 </workingSetManager>

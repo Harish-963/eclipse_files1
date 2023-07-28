@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
-    <fullyQualifiedTypeName name="java.util.TreeSet"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.CountDownLatch"/>
-    <fullyQualifiedTypeName name="java.util.Collections"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
-    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
-    <fullyQualifiedTypeName name="Collections.Book"/>
-    <fullyQualifiedTypeName name="java.util.TreeMap"/>
-    <fullyQualifiedTypeName name="java.util.function.BiConsumer"/>
-    <fullyQualifiedTypeName name="Collections.Impebiconsumer"/>
-    <fullyQualifiedTypeName name="java.util.function.Function"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
-    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
-    <fullyQualifiedTypeName name="java.util.function.Consumer"/>
-    <fullyQualifiedTypeName name="java.util.Collection"/>
     <fullyQualifiedTypeName name="java.nio.file.Files"/>
     <fullyQualifiedTypeName name="java.nio.file.Paths"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
-    <fullyQualifiedTypeName name="io.github.bonigarcia.wdm.WebDriverManager"/>
     <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
@@ -49,7 +31,6 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.sql.CallableStatement"/>
     <fullyQualifiedTypeName name="java.io.File"/>
-    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
@@ -60,4 +41,23 @@
     <fullyQualifiedTypeName name="scalermultithreading.NumberPrinter"/>
     <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
     <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="com.crm.qa.Constants.Constants"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.graphics.image.PDImageXObject"/>
+    <fullyQualifiedTypeName name="io.github.bonigarcia.wdm.WebDriverManager"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.graphics.image.LosslessFactory"/>
+    <fullyQualifiedTypeName name="java.awt.Dimension"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.Coordinates"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.Locatable"/>
+    <fullyQualifiedTypeName name="java.awt.Graphics2D"/>
+    <fullyQualifiedTypeName name="java.awt.BasicStroke"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.font.PDType1Font"/>
+    <fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.common.PDRectangle"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriverException"/>
+    <fullyQualifiedTypeName name="java.awt.Point"/>
+    <fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
+    <fullyQualifiedTypeName name="com.crm.qa.Utilities.SeleniumExecutionLogger"/>
 </qualifiedTypeNameHistroy>
